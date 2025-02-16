@@ -1,0 +1,5 @@
+pydirectinput 
+pyautogui
+mediapipe
+cvzone
+numpy
