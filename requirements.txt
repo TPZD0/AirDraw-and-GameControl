@@ -1,5 +1,5 @@
 pydirectinput 
 pyautogui
 mediapipe
-cvzone
+opencv-python
 numpy
